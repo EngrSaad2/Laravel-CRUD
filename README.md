@@ -35,12 +35,12 @@ Phone: +8801904654712<br>
 - This project will be keep on updated during my learning process, where I will improve my Laravel knowledge.
 
 # Developed By
-- Afif - https://fb.me/afzafri
+- SAAD - https://fb.me/developer.saad
 
 # Installation
 - Download or Clone this repository
 ```
-git clone https://github.com/afzafri/Simple-Laravel-CRUD.git
+git clone https://github.com/raselhasandurjoy/Laravel-CRUD
 ```
 - Create a new database
 - Copy or rename file ```.env.example``` to ```.env```, and edit the file to change the attributes for database to your database configurations (host,username,password etc)
