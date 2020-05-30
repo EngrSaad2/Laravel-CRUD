@@ -1,6 +1,17 @@
 # Simple Laravel CRUD
 Simple Laravel Web Application with CRUD (Create, Read, Update, Delete) functions.
 
+Developer: <b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/developer.saad<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Laravel-CRUD)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ### Updates
 - 26/08/2018
   - Upgraded Laravel version from 5.4 to 5.6
