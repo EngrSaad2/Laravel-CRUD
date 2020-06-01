@@ -20,7 +20,7 @@ Phone: +8801904654712<br>
 - 07/02/2017
   - Upgraded Laravel version from 5.3 to 5.4
 - 29/01/2017
-  - Now have table migration script...
+  - Now have table migration script..
   - Updates table columns in pages, to lowercase
   - Form now will display errors and success message
   - Update edit, delete, search pages.
